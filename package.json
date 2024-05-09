@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@icons-pack/react-simple-icons": "^9.4.1",
     "@tanstack/react-router": "^1.31.1",
+    "lucide-react": "^0.378.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.10"
   },
   "devDependencies": {
     "@tanstack/router-devtools": "^1.31.1",
@@ -31,5 +34,5 @@
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
   },
-  "packageManager": "pnpm@9.0.6"
+  "packageManager": "pnpm@9.1.0"
 }
