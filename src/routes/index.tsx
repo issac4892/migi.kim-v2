@@ -10,7 +10,6 @@ import {
 } from '@icons-pack/react-simple-icons';
 import CareerItem from '../components/careeritem';
 import ProjectItem from '../components/projectitem';
-import { useEffect } from 'react';
 import AwardItem from '../components/awarditem';
 
 export const Route = createFileRoute('/')({
