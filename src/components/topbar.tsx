@@ -5,7 +5,7 @@ export default function TopBar() {
   return (
     <Container>
       <ItemContainer>
-        <Item to=''>Mingeon Kim</Item>
+        <Item to='index'>Mingeon Kim</Item>
       </ItemContainer>
       <ItemContainer>
         <Item to='career'>CAREER</Item>
